@@ -42,6 +42,3 @@ de dados e melhoria da eficiência operacional.
 - Segurança
 - Padronização
 - Automação
-
-> Tecnologia aplicada para transformar processos manuais em soluções
-> mais simples, confiáveis e escaláveis.
